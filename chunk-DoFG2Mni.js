@@ -1,0 +1,1 @@
+var e={production:!0,apiBaseUrl:`https://orchem-backend.onrender.com`,socketBaseUrl:`https://orchem-backend.onrender.com`};export{e as t};
