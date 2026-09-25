@@ -1,1 +1,0 @@
-import{on as g,rt as R}from"./chunk-DW0Ve8jx.js";import{t as d}from"./chunk-CfukppdZ.js";var i=class r{api=g(d);page(t={}){return this.api.inventory(t)}adjust(t){return this.api.adjustInventory(t)}static ɵfac=function(a){return new(a||r)};static ɵprov=R({token:r,factory:r.ɵfac,providedIn:`root`})};export{i as t};
