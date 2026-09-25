@@ -1,0 +1,1 @@
+var n={production:!0,apiBaseUrl:`/api`};export{n as t};
