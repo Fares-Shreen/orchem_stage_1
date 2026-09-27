@@ -1,1 +1,0 @@
-function i(e){return typeof e==`string`?e:n(e)?e._id:``}function n(e){return typeof e==`object`&&e!==null&&`_id`in e&&typeof e._id==`string`}export{i as t};

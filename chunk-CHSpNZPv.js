@@ -1,1 +1,0 @@
-import{It as ae,f as Fg,on as g,st as S}from"./chunk-DW0Ve8jx.js";function w(t){t||(t=g(ae));let i=new S(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(Fg(i))}export{w as t};
