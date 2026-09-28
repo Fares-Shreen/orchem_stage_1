@@ -1,1 +1,0 @@
-import"./chunk-olrqgLYJ.js";import"./chunk-Dz6rumvo.js";import"./chunk-Bn84Tl9Q.js";import{t as w}from"./main-TGKEQXQF.js";var n=[{path:``,pathMatch:`full`,canActivate:[w],data:{permission:`transactions.view`,moduleId:`transactions`},loadComponent:()=>import(`./chunk-BsrHuthz.js`).then(o=>o.TransactionsList)}];export{n as TRANSACTIONS_ROUTES};

@@ -355,6 +355,21 @@
   "statusUpdated": "Status updated successfully",
   "confirmAction": "Confirm action",
   "areYouSure": "Are you sure?",
+  "confirmReleaseUnusedReservations": "Close this batch as failed and release only the unused reservations listed above? Dispensed materials will remain out of stock.",
+  "dispatchClosedFailed": "Batch closed as failed. Unshipped finished goods remain in branch stock.",
+  "dispatchReservationMissing": "No finished goods are reserved for this batch. The accountant cannot ship it until the operation manager verifies the stock.",
+  "reconcileDispatchTitle": "Verify and reserve finished goods",
+  "reconcileDispatchConfirm": "I have checked the physical finished goods for this batch. Record any missing batch receipt and reserve its packaged yield for dispatch. This changes inventory stock and reservations.",
   "confirm": "Confirm",
-  "completedBy": "Completed by"
+  "completedBy": "Completed by",
+  "S1_ACCOUNTANT_PERMIT": "Stage 1: Accountant permit",
+  "S1_STOREKEEPER_DISPENSE": "Stage 1: Storekeeper dispense",
+  "S2_ACCOUNTANT_PERMIT": "Stage 2: Accountant permit",
+  "S2_STOREKEEPER_DISPENSE": "Stage 2: Storekeeper dispense",
+  "S3_ACCOUNTANT_PERMIT": "Stage 3: Accountant permit",
+  "S3_STOREKEEPER_DISPENSE": "Stage 3: Storekeeper dispense",
+  "S4_ACCOUNTANT_PERMIT": "Stage 4: Accountant permit",
+  "ON_HOLD": "On hold",
+  "RETRY": "Retry task",
+  "CLOSE_FAILED": "Close task as failed"
 }

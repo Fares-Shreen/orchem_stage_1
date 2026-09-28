@@ -1,1 +1,0 @@
-import{Ft as ae,lt as S,rn as g,z as Lg}from"./chunk-olrqgLYJ.js";function w(t){t||(t=g(ae));let i=new S(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(Lg(i))}export{w as t};
