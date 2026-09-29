@@ -444,5 +444,27 @@
   "reasonInvalid": "Reason is invalid.",
   "reasonTooLong": "Reason is too long.",
   "reasonTooShort": "Reason is too short.",
-  "confirmFail": "Confirm fail"
+  "confirmFail": "Confirm fail",
+  "advancementDisabledOnHold": "Advancement is disabled while the batch is on hold.",
+  "batchOnHoldContactManager": "This batch is on hold. Contact the operations manager for assistance.",
+  "LOW_STOCK": "Low Stock",
+  "QC_REJECTED": "QC Rejected",
+  "BATCH_COMPLETED": "Batch Completed",
+  "QC_APPROVED": "QC Approved",
+  "PERMIT_REQUIRED": "Permit Required",
+  "SYSTEM_ALERT": "System Alert",
+  "resolveTask": "Resolve task",
+  "resolution": "Resolution",
+  "materials": "Materials",
+  "PRICE_CHANGE": "Price Change",
+  "STAGE_PREPARATION_ALERT": "Stage Preparation Alert",
+  "DISPENSE_REQUIRED": "Dispense Required",
+  "MATERIAL_READY": "Material Ready",
+  "CUSTODY_TRANSFER": "Custody Transfer",
+  "CUSTODY_ACCEPTED": "Custody Accepted",
+  "QC_PENDING": "QC Pending",
+  "addMaterial": "Add material",
+  "actualPackagedYield": "Actual packaged yield",
+  "actualBulkYield":"Actual bulk yield"
 }
+
