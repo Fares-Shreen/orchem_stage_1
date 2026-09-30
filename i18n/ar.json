@@ -212,6 +212,7 @@
   "suppliedItem": "الصنف المورّد",
   "salary": "الراتب",
   "minimumAlertLevel": "حد التنبيه الأدنى",
+  "currentStock": "المخزون الحالي",
   "averageCostPrice": "متوسط سعر التكلفة",
   "sellingPrice": "سعر البيع",
   "outputItem": "الصنف الناتج",
@@ -466,6 +467,14 @@
     "removeMaterial": "إزالة مادة",
     "materialRequired": "المادة مطلوبة.",
     "actualPackagedYield": "الكمية المعبأة الفعلية",
-    "actualBulkYield": "الكمية السائبة الفعلية"
+    "actualBulkYield": "الكمية السائبة الفعلية",
+    "codeRequired": "رمز الصنف مطلوب.",
+    "locationEnRequired": "الموقع بالإنجليزية مطلوب.",
+    "locationArRequired": "الموقع بالعربية مطلوب.",
+      "addComponent": "إضافة مكون",
+      "noItems": "لا يوجد عناصر.",
+      "invalid": "غير صالح.",
+      "itemRequired": "الصنف مطلوب.",
+      "price": "السعر"
     
 }

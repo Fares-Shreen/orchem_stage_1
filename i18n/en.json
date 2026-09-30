@@ -212,6 +212,7 @@
   "suppliedItem": "Supplied item",
   "salary": "Salary",
   "minimumAlertLevel": "Minimum alert level",
+  "currentStock": "Current stock",
   "averageCostPrice": "Average cost price",
   "sellingPrice": "Selling price",
   "outputItem": "Output item",
@@ -465,6 +466,14 @@
   "QC_PENDING": "QC Pending",
   "addMaterial": "Add material",
   "actualPackagedYield": "Actual packaged yield",
-  "actualBulkYield":"Actual bulk yield"
+  "actualBulkYield":"Actual bulk yield",
+  "codeRequired": "Code is required.",
+  "locationEnRequired": "Location in English is required.",
+  "locationArRequired": "Location in Arabic is required.",
+  "addComponent": "Add component",
+  "noItems": "No items available.",
+  "invalid": "Invalid",
+  "itemRequired": "Item is required.",
+  "price": "Price"
 }
 
