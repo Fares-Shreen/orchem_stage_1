@@ -1,0 +1,1 @@
+import{nn as g,pn as kg,pt as S,zt as ae}from"./chunk-Cni5pFAk.js";function w(t){t||(t=g(ae));let i=new S(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(kg(i))}export{w as t};

@@ -474,6 +474,22 @@
   "noItems": "No items available.",
   "invalid": "Invalid",
   "itemRequired": "Item is required.",
-  "price": "Price"
+  "price": "Price",
+  "custodyAwaitingRouting": "The accountant has confirmed custody. Finished goods will enter inventory through Storage or Dispatch after the manager decides.",
+  "STATUS_NOT_STARTED": "Not dispensed — awaiting approval or permit",
+  "STATUS_PERMITTED": "Reserved — awaiting dispense",
+  "finalReceivedQuantity": "Final Received Quantity",
+  "finalReceiptRequired": "Final Receipt Required",
+  "FINAL_RECEIPT": "Final Receipt",
+  "S3_ACCOUNTANT_RECEIVE_FINAL_PRODUCT": "Accountant Final Receipt",
+  "SPECIAL_ORDER_REQUIREMENT": "Special Order Requirement",
+  "qcRequestedPackagingMaterials": "Packaging materials requested by QC",
+  "unavailableItem": "Unavailable Item",
+  "managerReviewNotes": "Manager Review Notes",
+  "legacyReceiptAssignmentRequired": "This batch requires a final receipt task before advancing. Assign an accountant to proceed.",
+  "assignFinalReceipt": "Assign Final Receipt",
+  "notReceivedYet": "Not received yet",
+  "cannotExceedPackagedQuantity": "Cannot exceed packaged quantity.",
+  "bilingualNotesRequiredForDifference": "English and Arabic notes are required when there is a difference in quantity."
 }
 

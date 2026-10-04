@@ -475,6 +475,22 @@
       "noItems": "لا يوجد عناصر.",
       "invalid": "غير صالح.",
       "itemRequired": "الصنف مطلوب.",
-      "price": "السعر"
-    
+      "price": "السعر",
+      "custodyAwaitingRouting": "أكد المحاسب استلام العهدة. تُضاف المنتجات النهائية إلى المخزون عبر التخزين أو الشحن بعد قرار مدير العمليات.",
+      "STATUS_NOT_STARTED": "لم يتم الصرف — في انتظار الموافقة أو التصريح",
+      "STATUS_PERMITTED": "محجوز — في انتظار الصرف",
+      "finalReceivedQuantity": "الكمية المستلمة النهائية",
+      "finalReceiptRequired": "مطلوب الاستلام النهائي",
+      "FINAL_RECEIPT": "الاستلام النهائي",
+      "S3_ACCOUNTANT_RECEIVE_FINAL_PRODUCT": "الاستلام النهائي للمحاسب",
+      "SPECIAL_ORDER_REQUIREMENT": "متطلبات طلب خاص",
+      "qcRequestedPackagingMaterials": "مواد التعبئة المطلوبة بواسطة الجودة",
+      "unavailableItem": "عنصر غير متوفر",
+      "managerReviewNotes": "ملاحظات مراجعة المدير",
+      "legacyReceiptAssignmentRequired": "تتطلب هذه التشغيلة مهمة استلام نهائي قبل التقدم. قم بتعيين محاسب للمتابعة.",
+      "assignFinalReceipt": "تعيين الاستلام النهائي",
+      "notReceivedYet": "لم يتم الاستلام بعد",
+      "cannotExceedPackagedQuantity": "لا يمكن أن تتجاوز الكمية المعبأة.",
+      "bilingualNotesRequiredForDifference": "الملاحظات باللغتين الإنجليزية والعربية مطلوبة عند وجود اختلاف في الكمية."
 }
+
