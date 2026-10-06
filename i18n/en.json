@@ -474,6 +474,8 @@
   "noItems": "No items available.",
   "invalid": "Invalid",
   "itemRequired": "Item is required.",
+  "alreadySelected": "Already selected",
+  "duplicateRecipeIngredient": "Each material can only be selected once in a recipe.",
   "price": "Price",
   "custodyAwaitingRouting": "The accountant has confirmed custody. Finished goods will enter inventory through Storage or Dispatch after the manager decides.",
   "STATUS_NOT_STARTED": "Not dispensed — awaiting approval or permit",
