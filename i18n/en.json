@@ -492,6 +492,15 @@
   "assignFinalReceipt": "Assign Final Receipt",
   "notReceivedYet": "Not received yet",
   "cannotExceedPackagedQuantity": "Cannot exceed packaged quantity.",
-  "bilingualNotesRequiredForDifference": "English and Arabic notes are required when there is a difference in quantity."
+  "bilingualNotesRequiredForDifference": "English and Arabic notes are required when there is a difference in quantity.",
+  "unusedReservationsToRelease": "Unused reservations to release",
+  "sufficient": "Sufficient",
+  "insufficient": "Insufficient",
+  "maxPossibleQuantity": "Maximum possible quantity",
+  "insufficientStockWarning": "Insufficient stock for some materials.",
+  "requiredQuantity": "Required quantity",
+  "companyNameEn ": "Company name in English",
+  "companyNameAr": "Company name in Arabic",
+  "capacityUom": "Capacity unit of measurement"
 }
 

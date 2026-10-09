@@ -493,6 +493,16 @@
       "assignFinalReceipt": "تعيين الاستلام النهائي",
       "notReceivedYet": "لم يتم الاستلام بعد",
       "cannotExceedPackagedQuantity": "لا يمكن أن تتجاوز الكمية المعبأة.",
-      "bilingualNotesRequiredForDifference": "الملاحظات باللغتين الإنجليزية والعربية مطلوبة عند وجود اختلاف في الكمية."
+      "bilingualNotesRequiredForDifference": "الملاحظات باللغتين الإنجليزية والعربية مطلوبة عند وجود اختلاف في الكمية.",
+      "unusedReservationsToRelease": "الحجوزات غير المستخدمة للتحرير",
+      "sufficient": "كافي",
+      "insufficient": "غير كافي",
+      "maxPossibleQuantity": "الكمية القصوى الممكنة",
+      "insufficientStockWarning": "مخزون غير كافٍ لبعض المواد.",
+      "requiredQuantity": "الكمية المطلوبة",
+      "companyNameEn": "اسم الشركة بالإنجليزية مطلوب.",
+      "companyNameAr": "اسم الشركة بالعربية مطلوب.",
+      "capacityUom": "وحدة قياس القدرة"
+    
 }
 

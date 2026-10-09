@@ -1,0 +1,1 @@
+import{$n as ue,Ct as Ug,U as M,un as g}from"./chunk-CZKCxEQ6.js";function w(t){t||(t=g(ue));let i=new M(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(Ug(i))}export{w as t};
