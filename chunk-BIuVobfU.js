@@ -1,0 +1,1 @@
+import{G as M,In as le,Qt as bm,xn as g}from"./chunk-D8TOgfCq.js";function w(t){t||(t=g(le));let i=new M(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(bm(i))}export{w as t};

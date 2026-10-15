@@ -502,7 +502,10 @@
       "requiredQuantity": "الكمية المطلوبة",
       "companyNameEn": "اسم الشركة بالإنجليزية مطلوب.",
       "companyNameAr": "اسم الشركة بالعربية مطلوب.",
-      "capacityUom": "وحدة قياس القدرة"
+      "capacityUom": "وحدة قياس القدرة",
+      "noComponents": "لا توجد مكونات بعد",
+      "instructionsEnglish": "تعليمات بالإنجليزية",
+      "instructionsArabic": "تعليمات بالعربية"
     
 }
 

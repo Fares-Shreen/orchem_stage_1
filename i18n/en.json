@@ -501,6 +501,9 @@
   "requiredQuantity": "Required quantity",
   "companyNameEn ": "Company name in English",
   "companyNameAr": "Company name in Arabic",
-  "capacityUom": "Capacity unit of measurement"
+  "capacityUom": "Capacity unit of measurement",
+  "noComponents":"No components Yet",
+  "instructionsEnglish": "Instructions in English",
+  "instructionsArabic": "Instructions in Arabic"
 }
 
