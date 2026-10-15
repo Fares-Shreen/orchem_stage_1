@@ -168,6 +168,8 @@
   "unread": "unread",
   "dismissNotification": "Dismiss notification",
   "newNotification": "New notification",
+  "browserNotifications": "Browser notifications",
+  "pushNotificationsUnavailable": "Browser push notifications could not be enabled. Check your browser's notification settings and connection, then try again. You can still view notifications inside the app.",
   "close": "Close",
   "description": "Description",
   "items": "Items",

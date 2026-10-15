@@ -168,6 +168,8 @@
   "unread": "غير مقروء",
   "dismissNotification": "إخفاء الإشعار",
   "newNotification": "إشعار جديد",
+  "browserNotifications": "إشعارات المتصفح",
+  "pushNotificationsUnavailable": "تعذر تفعيل الإشعارات الفورية للمتصفح. تحقق من إعدادات الإشعارات في المتصفح والاتصال بالإنترنت ثم حاول مجددًا. يمكنك متابعة الإشعارات داخل التطبيق.",
   "close": "إغلاق",
   "description": "الوصف",
   "items": "الأصناف",
