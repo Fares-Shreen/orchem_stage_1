@@ -1,0 +1,1 @@
+import{mt as R,pn as g}from"./chunk-CORxc-Xe.js";import{t as p}from"./chunk-BP43_kyd.js";var n=class t{api=g(p);page(r={}){return this.api.transactions(r)}find(r){return this.api.transaction(r)}static ɵfac=function(o){return new(o||t)};static ɵprov=R({token:t,factory:t.ɵfac,providedIn:`root`})};export{n as t};

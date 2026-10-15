@@ -1,0 +1,1 @@
+import{Gt as _m,X as M,pn as g,rn as de}from"./chunk-CORxc-Xe.js";function w(t){t||(t=g(de));let i=new M(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(_m(i))}export{w as t};
