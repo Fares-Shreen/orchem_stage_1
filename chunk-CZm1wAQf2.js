@@ -1,0 +1,1 @@
+function e(t){return typeof t==`string`?t:t?.ar||t?.en||``}function n(t){let r=t.trim();return{en:r,ar:r}}export{n,e as t};

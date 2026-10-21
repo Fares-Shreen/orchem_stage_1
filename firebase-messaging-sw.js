@@ -13,15 +13,15 @@ const getLanguage = () =>
             .transaction('settings', 'readonly')
             .objectStore('settings')
             .get('language');
-          getReq.onsuccess = () => resolve(getReq.result || 'en');
-          getReq.onerror = () => resolve('en');
+          getReq.onsuccess = () => resolve('ar');
+          getReq.onerror = () => resolve('ar');
         } catch {
-          resolve('en');
+          resolve('ar');
         }
       };
-      req.onerror = () => resolve('en');
+      req.onerror = () => resolve('ar');
     } catch {
-      resolve('en');
+      resolve('ar');
     }
   });
 
@@ -48,7 +48,7 @@ fetch('/firebase-config.json')
       if (!payload.notification) {
         return self.registration.showNotification(title, {
           body,
-          data: { id: data.id, type: data.type },
+          data: { id: data.id, type: data.type, batchId: data.batchId },
         });
       }
     });
