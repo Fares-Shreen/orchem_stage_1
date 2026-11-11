@@ -1,1 +1,0 @@
-import{_t as _,an as p}from"./chunk-DRdKS4Aq.js";import{t as g}from"./chunk-BdzPn-pW.js";var n=class t{api=p(g);page(r={}){return this.api.transactions(r)}find(r){return this.api.transaction(r)}static ɵfac=function(o){return new(o||t)};static ɵprov=_({token:t,factory:t.ɵfac,providedIn:`root`})};export{n as t};

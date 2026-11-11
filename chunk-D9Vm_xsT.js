@@ -1,0 +1,1 @@
+import"./chunk-CyyB8VI8.js";import"./chunk-BdsX2-0f.js";import"./chunk-Cef4PFBO.js";import"./chunk-D4dOjOOE.js";import{t as w}from"./main-YGJFYFQF.js";var n=[{path:``,canActivate:[w],data:{permission:`notifications.view`,moduleId:`notifications`},loadComponent:()=>import(`./chunk-DsloHjMG2.js`).then(t=>t.NotificationsList)}];export{n as NOTIFICATIONS_ROUTES};

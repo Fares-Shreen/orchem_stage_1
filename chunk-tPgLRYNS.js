@@ -1,0 +1,1 @@
+import{Jt as me,L as No,R as O,ln as p}from"./chunk-CyyB8VI8.js";function w(t){t||(t=p(me));let i=new O(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(No(i))}export{w as t};

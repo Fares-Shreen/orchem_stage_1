@@ -1,1 +1,0 @@
-import{Gt as me,R as O,Y as To,an as p}from"./chunk-DRdKS4Aq.js";function w(t){t||(t=p(me));let i=new O(e=>{if(t.destroyed){e.next();return}return t.onDestroy(e.next.bind(e))});return e=>e.pipe(To(i))}export{w as t};
